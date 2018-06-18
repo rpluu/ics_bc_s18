@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 qt = 'What\'s your '
 puts qt + 'first name?'
 fname = gets.chomp
