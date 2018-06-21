@@ -10,7 +10,10 @@ versioned back-ups. The second is particularly important as it means that if thi
 find the last point things worked and see exactly what the changes made after that were so you can find the bug.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 31c557625d233221983974d5697f8b1779477d2e
 ### Useful Commands
 
 **Note: Please do NOT make edits directly on the Github website.** If you edit a repo simultaneously at two places, you will (usually) get a merge conflict. Those are not nice. Believe me.
@@ -55,7 +58,10 @@ Changes already added to the index, as well as new files, will be kept.
 
 `git push -f`: Force push your commits to the remote. Do this when you are despairing and just can't figure out how to fix the merge conflict.
 
+<<<<<<< HEAD
 >>>>>>> 96b30bf9d3d3bc85903afbf1a13e370cf452d59e
+=======
+>>>>>>> 31c557625d233221983974d5697f8b1779477d2e
 ### Useful Links
 
 Below are Tutorials for Git and the command line on Codecademy. They are by no means manadory, but may be useful if you
